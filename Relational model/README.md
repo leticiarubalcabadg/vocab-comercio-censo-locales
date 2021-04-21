@@ -15,6 +15,12 @@
     - [LOCAL_COMERCIAL_AGRUPACION](#id6)  
     - [LOCAL_COMERCIAL_LICENCIA](#id7)  
     - [LOCAL_COMERCIAL_TERRAZA](#id8) 
+5. [TAXONOMÍAS SKOS](#id9)
+    - [PERIODO-FUNCIONAMIENTO](#id10)
+    - [TIPO-SITUACION](#id11)
+    - [TIPO-ESTADO-TRAMITE-LICENCIA](#id12)
+    - [TIPO-AGRUPACION](#id13)
+    - [CNAE](#id14)
 
 
 
@@ -142,6 +148,106 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 &nbsp;
 
+## TAXONOMÍAS SKOS
+&nbsp;
+
+### PERIODO-FUNCIONAMIENTO
+http://vocab.linkeddata.es/datosabiertos/kos/comercio/periodo-funcionamiento
+&nbsp;
+Tesauro que recoge los tipos de periodos de funcionamiento de las terrazas.
+|     Término       |     Label         |
+|-------------------|-------------------|
+|     anual         |     anual         |
+|     estacional    |     estacional    |
+
+
+
+
+&nbsp;
+### TIPO-SITUACION
+http://vocab.linkeddata.es/datosabiertos/kos/comercio/tipo-situacion
+&nbsp;
+Tesauro que recoge los tipos de situación en los que se puede encontrar un local comercial.
+|     Término       |     Label         |
+|-------------------|-------------------|
+|     activo        |     activo        |
+|     cerrado       |     cerrado       |
+|     clausurado    |     clausurado    |
+|     en-obras      |     en obras      |
+
+
+
+&nbsp;
+### TIPO-ESTADO-TRAMITE-LICENCIA
+http://vocab.linkeddata.es/datosabiertos/kos/comercio/tipo-estado-tramite-licencia
+&nbsp;
+Tesauro que recoge los tipos de estado de tramitación de las licencias de apertura.
+|     Término       |     Label         |
+|-------------------|-------------------|
+|     concedida     |     concedida     |
+|     denegada      |     denegada      |
+|     en-tramite    |     en trámite    |
+
+
+
+
+&nbsp;
+### TIPO-AGRUPACION
+http://vocab.linkeddata.es/datosabiertos/kos/comercio/tipo-agrupacion
+&nbsp;
+Tesauro que recoge los tipos de agrupaciones comerciales.
+|     Término                       |     Label                             |
+|-----------------------------------|---------------------------------------|
+|     aeropuerto                    |     Aeropuerto.                       |
+|     centro-comercial              |     Centro comercial.                 |
+|     estacion-metro                |     Estación de   metro.              |
+|     estacion-tren                 |     Estación de tren.                 |
+|     galeria-alimentacion          |     Galería de alimentación.          |
+|     intercambiador-transportes    |     Intercambiador de transportes.    |
+|     mercado-municipal             |     Mercado municipal.                |
+|     no-comercial                  |     No comercial.                     |
+|     pasaje-comercial              |     Pasaje comercial.                 |
+|     recinto-ferial                |     Recinto ferial.                   |
+
+
+
+
+
+&nbsp;
+### CNAE
+http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae
+&nbsp;
+Lista de códigos CNAE 2009.
+|     Término    |     Label                                                                                                                                                        |
+|----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     A          |     Agricultura, ganadería, silvicultura y pesca.                                                                                                                |
+|     B          |     Industrias extractivas.                                                                                                                                      |
+|     C          |     Industria   manufacturera.                                                                                                                                   |
+|     D          |     Suministro   de energía eléctrica, gas, vapor y aire acondicionado.                                                                                          |
+|     E          |     Suministro de agua, actividades de saneamiento, gestión de   residuos y descontaminación.                                                                    |
+|     F          |     Construcción.                                                                                                                                                |
+|     G          |     Comercio al por mayor y al por menor; reparación de vehículos   de motor y motocicletas.                                                                     |
+|     H          |     Transporte y almacenamiento.                                                                                                                                 |
+|     I          |     Hostelería                                                                                                                                                   |
+|     J          |     Información y comunicaciones.                                                                                                                                |
+|     K          |     Actividades financieras y de seguros.                                                                                                                        |
+|     L          |     Actividades inmobiliarias.                                                                                                                                   |
+|     M          |     Actividades profesionales, científicas y técnicas.                                                                                                           |
+|     N          |     Actividades administrativas y servicios auxiliares.                                                                                                          |
+|     O          |     Administración Pública y defensa; Seguiridad Social   obligatoria.                                                                                           |
+|     P          |     Educación.                                                                                                                                                   |
+|     Q          |     Actividades sanitarias y de servicios sociales.                                                                                                              |
+|     R          |     Actividades artísticas, recreativas y de entretenimiento.                                                                                                    |
+|     S          |     Otros servicios.                                                                                                                                             |
+|     T          |     Actividades de los hogares como empleadores de personal   doméstico; actividades de los hogares como productores de bienes y servicios   para uso propio.    |
+|     U          |     Actividades de organizaciones y organismos extraterritoriales.                                                                                               |
+
+
+
+
+
+
+&nbsp;
 
 <p float="right" align="center">
 <img src="https://ciudadesabiertas.es/assets/img/cabiertas/gobEspana-logo.svg" alt="Logo Gobierno España" width="200"/>

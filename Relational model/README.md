@@ -148,10 +148,10 @@ En principio se considera esta estructura de datos bastante estable y no se esti
 
 &nbsp;
 
-## TAXONOMÍAS SKOS
+## TAXONOMÍAS SKOS <a name="id9"></a>
 &nbsp;
 
-### PERIODO-FUNCIONAMIENTO
+### PERIODO-FUNCIONAMIENTO <a name="id10"></a>
 http://vocab.linkeddata.es/datosabiertos/kos/comercio/periodo-funcionamiento
 &nbsp;
 Tesauro que recoge los tipos de periodos de funcionamiento de las terrazas.
@@ -164,7 +164,7 @@ Tesauro que recoge los tipos de periodos de funcionamiento de las terrazas.
 
 
 &nbsp;
-### TIPO-SITUACION
+### TIPO-SITUACION <a name="id11"></a>
 http://vocab.linkeddata.es/datosabiertos/kos/comercio/tipo-situacion
 &nbsp;
 Tesauro que recoge los tipos de situación en los que se puede encontrar un local comercial.
@@ -178,7 +178,7 @@ Tesauro que recoge los tipos de situación en los que se puede encontrar un loca
 
 
 &nbsp;
-### TIPO-ESTADO-TRAMITE-LICENCIA
+### TIPO-ESTADO-TRAMITE-LICENCIA <a name="id12"></a>
 http://vocab.linkeddata.es/datosabiertos/kos/comercio/tipo-estado-tramite-licencia
 &nbsp;
 Tesauro que recoge los tipos de estado de tramitación de las licencias de apertura.
@@ -192,7 +192,7 @@ Tesauro que recoge los tipos de estado de tramitación de las licencias de apert
 
 
 &nbsp;
-### TIPO-AGRUPACION
+### TIPO-AGRUPACION <a name="id13"></a>
 http://vocab.linkeddata.es/datosabiertos/kos/comercio/tipo-agrupacion
 &nbsp;
 Tesauro que recoge los tipos de agrupaciones comerciales.
@@ -214,7 +214,7 @@ Tesauro que recoge los tipos de agrupaciones comerciales.
 
 
 &nbsp;
-### CNAE
+### CNAE <a name="id14"></a>
 http://vocab.linkeddata.es/datosabiertos/kos/comercio/cnae
 &nbsp;
 Lista de códigos CNAE 2009.
